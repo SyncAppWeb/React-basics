@@ -1,2 +1,2 @@
-# Reat-basics
+# React-basics
 react basic programing
